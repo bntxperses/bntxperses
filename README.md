@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Perses</h1>
 <h3 align="center">Android Devices Custom roms Dev (In free time) 🖥️ from Nepal.</h3>
-<img align="right" alt="Coding" width="550" src="https://i.pinimg.com/originals/1d/c5/17/1dc517a4237f513e315a0a7a97dda654.gif">
+<img align="right" alt="Coding" width="500" src="https://acegif.com/wp-content/uploads/gif/beer-67.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bntxperses&label=Profile%20views&color=0e75b6&style=flat" alt="bntxperses" /> </p>
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bntxperses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bntxperses" height="30" width="40" /></a>
-<a href="https://instagram.com/persesxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="persesxx" height="30" width="40" /></a>
+<a href="https://instagram.com/persesxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="persesx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
