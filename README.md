@@ -10,8 +10,9 @@
 - 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **Android, Java**
-
+- 😎 Thanks to <a href="https://github.com/akmacc">AK</a>  for **Helping me a lot** 
 - ⚡ Fun fact **I Love Beer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
