@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Perses</h1>
-<h3 align="center">Android Devices Custom roms Dev (In free time) 🖥️ from Nepal.</h3>
+<h3 align="center">Android Devices Custom Roms Dev (In free time) 🖥️ from Nepal.</h3>
 <img align="right" alt="Coding" width="500" src="https://acegif.com/wp-content/uploads/gif/beer-67.gif">
 
 
