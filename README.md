@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android, Java**
 - 😎 Thanks to <a href="https://github.com/akmacc">AK</a>  for **Helping me a lot** 
-- ⚡ Fun fact **I Love Beer**
+- ⚡ Fun fact **I Love Beer More then Her**
 
 
 <h3 align="left">Connect with me:</h3>
