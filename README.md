@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Perses</h1>
-<h3 align="center">Android Devices Custom Roms Dev (In free time) 🖥️ from Nepal.</h3>
-<img align="right" alt="Coding" width="500" src="https://acegif.com/wp-content/uploads/gif/beer-67.gif">
-
+<h1 align="center">Hello, I'm Perses</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bntxperses&label=Profile%20views&color=0e75b6&style=flat" alt="bntxperses" /> </p>
 
@@ -10,8 +7,7 @@
 - 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **Android, Java**
-- 😎 Thanks to <a href="https://github.com/akmacc">AK</a>  for **Helping me a lot** 
-- ⚡ Fun fact **I Love Beer More then Her**
+- 😎 Special Thanks to <a href="https://github.com/akmacc">AK</a>  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -25,10 +21,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bntxperses&show_icons=true&locale=en&layout=compact" alt="bntxperses" /></p>
-
-
-                                      
-                                      
-                                      
-                                      
-![snake gif](https://github.com/bntxperses/bntxperses/blob/output/github-contribution-grid-snake.gif)
